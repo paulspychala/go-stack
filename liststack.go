@@ -1,4 +1,4 @@
-// Copyright Pawel Spychala
+// Copyright 2014 Pawel Spychala
 
 package stack
 
